@@ -92,7 +92,8 @@ int main() {
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/99561343-75da-47a4-9f95-9fcbb755869c)
+![Uploading Screenshot 2026-02-20 082309 (2)_page-0001.jpg…]()
+
 
 
 ## Result:
