@@ -92,7 +92,8 @@ int main() {
 
 
 ## Output:
-![Uploading Screenshot 2026-02-20 082309 (2)_page-0001.jpg…]()
+
+![Screenshot 2026-02-20 082309 (2)_page-0001](https://github.com/user-attachments/assets/328a04f3-691d-42c1-9ba8-9eb25cc8c642)
 
 
 
