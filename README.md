@@ -93,7 +93,8 @@ int main() {
 
 ## Output:
 
-![Screenshot 2026-02-20 082309 (2)_page-0001](https://github.com/user-attachments/assets/328a04f3-691d-42c1-9ba8-9eb25cc8c642)
+<img width="930" height="233" alt="Screenshot 2026-02-20 090850" src="https://github.com/user-attachments/assets/bcb22ad1-9a77-49f9-841f-940f775bf22f" />
+
 
 
 
